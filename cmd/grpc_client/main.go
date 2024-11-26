@@ -1,5 +1,4 @@
 package main
 
-type client struct{
-	
+type client struct {
 }
